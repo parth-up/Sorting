@@ -26,7 +26,7 @@ public class NewSort {
           
         selectionSort(arr1);//sorting array using selection sort  
          
-        System.out.println("After Selection Sort");  
+        System.out.println("After Selection Sorting");  
         for(int i:arr1){  
             System.out.print(i+" ");  
         }  
